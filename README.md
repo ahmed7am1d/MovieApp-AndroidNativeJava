@@ -10,6 +10,7 @@ Native Android created with Java Android Studio, allows you to browse for movies
   * Retrofit Library for Http and API Request 
   * Android RecyclerView
   * Local Storage (SharedPrefernces, Intent and Bundles)
+  * Lottie Library for purpose of Splash Screen Loading
  
  #### - Screenshots of the internal app after building:
 <img src="Images/splashScreen.png" width="200"></img>

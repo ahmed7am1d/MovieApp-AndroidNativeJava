@@ -1,0 +1,34 @@
+MOVIE API [TMDB]:
+- Search query: 
+	-https://api.themoviedb.org/3/search/movie?api_key=37e0a01b9ab739a80362d37aed4a6db6&query=purge
+- my api: 
+	- 37e0a01b9ab739a80362d37aed4a6db6
+
+===========================================
+- getting the details for the clicked movie or query details: 
+
+	- https://api.themoviedb.org/3/movie/343611?api_key={api_key}
+===========================================
+- getting the latest movies 
+
+	- https://api.themoviedb.org/3/movie/latest?api_key=37e0a01b9ab739a80362d37aed4a6db6
+===========================================================
+
+- Get a list of the current popular movies on TMDB. This list updates daily.
+
+	- https://api.themoviedb.org/3/movie/popular?api_key=37e0a01b9ab739a80362d37aed4a6db6
+	- when sending request to get popular movies the above link returns only first page of result 
+	  each page has many movies, but what if we want to get more pages and more results? 
+		- we can send request for specfic page by specifiying specail parameter as follow: 
+			https://api.themoviedb.org/3/movie/popular?api_key=37e0a01b9ab739a80362d37aed4a6db6&page=2
+
+============================================
+- Get all images path  for a movie: 
+	
+	-/movie/{movie_id}/images
+	- https://api.themoviedb.org/3/movie/343611/images?api_key=37e0a01b9ab739a80362d37aed4a6db6
+
+====================
+- Get full link for specific image path 
+	- https://image.tmdb.org/t/p/w500/{image_path}
+	- https://image.tmdb.org/t/p/w500//92VLo5wUvcGye95HLZUDg63XmfE.jpg

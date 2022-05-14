@@ -18,4 +18,4 @@ Native Android created with Java Android Studio, allows you to browse for movies
 <img src="Images/movieDetails.png" width="200"></img>
 
 * for the purpose of the Copyrights (credits) the following is used:
-  * API: http://www.omdbapi.com/
+  * API: https://www.themoviedb.org/

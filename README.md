@@ -9,12 +9,12 @@ Native Android created with Java Android Studio, allows you to browse for movies
   * MVVM Pattern.
   * Retrofit Library for Http and API Request 
   * Android RecyclerView
+  * Local Storage (SharedPrefernces, Intent and Bundles)
  
  #### - Screenshots of the internal app after building:
-<img src="Images/HomeView.png" width="200"></img>
-<img src="Images/SearchView.png" width="200"></img>
-<img src="Images/DetailsView.png" width="200"></img>
-<img src="Images/WatchLaterVIew.png" width="200"></img>
+<img src="Images/splashScreen.png" width="200"></img>
+<img src="Images/homePage.png" width="200"></img>
+<img src="Images/movieDetails.png" width="200"></img>
 
 * for the purpose of the Copyrights (credits) the following is used:
   * API: http://www.omdbapi.com/

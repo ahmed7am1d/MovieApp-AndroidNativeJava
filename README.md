@@ -2,7 +2,8 @@
 ![GitHub all releases](https://img.shields.io/github/downloads/ahmed7am1d/MovieBrowser/total?logo=GitHub&style=flat-square)
 
 ### Description of the App:
-Native Android created with Java Android Studio, allows you to browse for movies and series and shows info about them (description, rating,...etc.)
+Native Android created with Java Android Studio, allows you to browse for movies and series and shows info about them (description, rating,...etc.).
+in this application I did not focus on the design this time instead I foucesd on Advanced and Clear Architecture and Pattern [Logic]
 * **Technologies and Techniques Used**
   * Android Studio.
   * Native Java Language.

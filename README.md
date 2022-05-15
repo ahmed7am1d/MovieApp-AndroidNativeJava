@@ -7,6 +7,7 @@ Native Android created with Java Android Studio, allows you to browse for movies
   * Android Studio.
   * Native Java Language.
   * MVVM Pattern.
+  * Singelton Pattern
   * Retrofit Library for Http and API Request 
   * Android RecyclerView
   * Local Storage (SharedPrefernces, Intent and Bundles)
